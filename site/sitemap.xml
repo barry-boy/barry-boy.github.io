@@ -2,2067 +2,2212 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://yuki-0215.github.io/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/k8s_home/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://yuki-0215.github.io/0.Internet/2024-02-20-3-network-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <loc>https://yuki-0215.github.io/0.Internet/2024-02-20-cisco-network-devices/</loc>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://yuki-0215.github.io/0.Internet/2024-02-20-4-network-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <loc>https://yuki-0215.github.io/0.Internet/2024-02-20-frp-intranet-proxy/</loc>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://yuki-0215.github.io/0.Internet/2024-02-20-5g-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <loc>https://yuki-0215.github.io/0.Internet/2024-02-20-infiniband-ethernet-mode/</loc>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://yuki-0215.github.io/0.Internet/2024-02-20-IB-ET-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <loc>https://yuki-0215.github.io/0.Internet/2024-02-20-kubernetes-flannel-network/</loc>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://yuki-0215.github.io/0.Internet/2024-02-20-Tcp-ip-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <loc>https://yuki-0215.github.io/0.Internet/2024-02-20-network-proxy-access/</loc>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://yuki-0215.github.io/0.Internet/2024-02-20-ZeroTier/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <loc>https://yuki-0215.github.io/0.Internet/2024-02-20-tcp-ip/</loc>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://yuki-0215.github.io/0.Internet/2024-02-20-frp/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <loc>https://yuki-0215.github.io/0.Internet/2024-02-20-zerotier/</loc>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/2024-9-25-ssh-proxy-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/2025-03-27-linux-SM-doc-01/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/2025-03-27-linux-SM-doc-02/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/2025-03-27-linux-SM-doc-03/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/2025-12-17-linux-ssh-%E8%BF%90%E7%BB%B4%E5%BF%83%E5%BE%97/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/asus/2024-02-20-asus-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/basic/5-kubernetes-UI-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/basic/6-kubernetes-etcd-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/basic/7-kubernetes-coredns-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/basic/7-kubernetes-update-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/basic/9-install-keepalived-cluster/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/basic/cncf-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/basic/etcd/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/basic/overview/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/ekgc/1-2025-04-11-rsync-to-ceph-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/hardware/1-2025-04-03-Hardware-cpu-benchmark-report-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/hardware/2-2025-04-04-Hardware-memary-report-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/hardware/2024-02-20-cpu-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/hardware/3-2025-04-04-Hareware-disk-benchmark-report-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/hardware/4-2025-04-04-Hardware-GPU-benchmark-report-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/hardware/5-2025-04-04-Hareware-H100-report-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/hardware/6-2025-04-04-Hardware-FAQ-disk-report-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/hardware/7-2025-04-06-Hardware-FAQ-no-network-debug-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE/1-2025-04-04-auth-introduction-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE/10-2025-04-04-linux-sed-package-management-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE/11-2025-04-04-linux-package-management2-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE/12-2025-04-04-linux-disk-filesystem-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE/13-2025-04-04-network-protocol-config-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE/14-2025-04-04-shell-script-advanced-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE/15-2025-04-04-linux-process-cron-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE/16-2025-04-04-linux-awk-kernel-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE/17-2025-04-04-security-encryption-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE/18-2025-04-04-security-encryption2-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE/19-2025-04-04-linux-time-sync-deploy-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE/2-2025-04-04-course-opening-ceremony-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE/20-2025-04-04-dns-domain-service-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE/21-2025-04-04-security-linux-firewall-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE/22-2025-04-04-vpn-service-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE/23-2025-04-04-mysql-database1-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE/24-2025-04-04-mysql-database2-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE/25-2025-04-04-mysql-database3-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE/26-2025-04-04-mysql-database4-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE/27-2025-04-04-ansible-automation-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE/28-2025-04-04-apache-http-web1-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE/29-2025-04-04-apache-http-web2-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE/30-2025-04-04-apache-http-web3-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE/31-2025-04-04-linux-log-management-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE/32-2025-04-04-linux-network-file-sharing-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE/33-2025-04-04-lvs-enterprise-scheduler-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE/34-2025-04-04-nginx-high-performance-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE/35-2025-04-04-nginx-config-advanced-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE/36-2025-04-04-nginx-loadbalance-proxy-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE/37-2025-04-04-keepalived-high-availability-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE/38-2025-04-04-haproxy-enterprise-proxy-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE/39-2025-04-04-haproxy-scheduling-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE/4-2025-04-04-linux-basic-installation-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE/40-2025-04-04-tomcat-install-intro-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE/41-2025-04-04-tomcat-proxy-loadbalance-session-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE/42-2025-04-04-redis-persistence-performance-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE/43-2025-04-04-redis-master-slave-recovery-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE/44-2025-04-04-redis-data-migration-cluster-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE/45-2025-04-04-zabbix-enterprise-monitor1-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE/46-2025-04-04-zabbix-enterprise-monitor2-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE/5-2025-04-04-linux-basic-help-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE/6-2025-04-04-linux-file-io-redirect-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE/7-2025-04-04-ACL-user-group-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE/8-2025-04-04-linux-text-tools-regex-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE/9-2025-04-04-shell-text-programming-basic-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE/31%E6%97%A5%E5%BF%97%E6%9C%8D%E5%8A%A1%E7%AE%A1%E7%90%86/31-2025-04-04-linux-log-management-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE-CTO/01-2025-04-04-nginx-basic-introduction-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE-CTO/02-2025-04-04-haproxy-basic-introduction-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE-CTO/03-2025-04-04-keepalived-basic-introduction-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE-CTO/04-2025-04-04-kvm-virtualization-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE-CTO/05-2025-04-04-vmware-vsphere-introduction-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE-CTO/06-2025-04-04-docker-container-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE-CTO/07-2025-04-04-jumpserver-introduction-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE-CTO/08-2025-04-04-kubernetes-basic-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE-CTO/09-2025-04-04-redis-distributed-storage-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE-CTO/10-2025-04-04-zabbix-distributed-monitor-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE-CTO/11-2025-04-04-jenkins-gitlab-cicd-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE-CTO/12-2025-04-04-message-queue-microservice-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE-CTO/13-2025-04-04-elk-log-collection-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE-CTO/14-2025-04-04-ceph-distributed-storage-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE-CTO/15-2025-04-04-interview-notes-questions-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE-CTO/16-2025-04-04-kubernetes-production-cases-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-SRE-CTO/17-2025-04-04-aliyun-cloud-platform-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-cloud-native/01-2025-04-04-computer-basics-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-cloud-native/02-2025-04-04-basic-regular-expression-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-cloud-native/03-2025-04-04-docker-practice1-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-cloud-native/04-2025-04-04-docker-practice2-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-cloud-native/05-2025-04-04-docker-practice3-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-cloud-native/06-2025-04-04-docker-compose-examples-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-cloud-native/07-2025-04-04-docker-practice4-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-cloud-native/08-2025-04-04-docker-practice5-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-cloud-native/09-2025-04-04-docker-basic-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-cloud-native/10-2025-04-04-docker-k8s-integration-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-cloud-native/11-2025-04-04-kubernetes-practice1-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-cloud-native/12-2025-04-04-kubernetes-practice2-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-cloud-native/13-2025-04-04-kubernetes-practice3-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-cloud-native/14-2025-04-04-network-communication-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-cloud-native/15-2025-04-04-rbac-access-control-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-cloud-native/16-2025-04-04-kubernetes-basic-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-cloud-native/17-2025-04-04-prometheus-deployment-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-cloud-native/18-2025-04-04-monitoring-metrics-storage-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-cloud-native/19-2025-04-04-chain-tracking-skywalking-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-cloud-native/20-2025-04-04-ceph-deployment-maintenance-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-cloud-native/21-2025-04-04-ceph-basic-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-cloud-native/22-2025-04-04-microservice-envoy1-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-cloud-native/23-2025-04-04-envoy-practice2-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-cloud-native/24-2025-04-04-microservice-envoy3-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-cloud-native/25-2025-04-04-service-mesh-istio-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-cloud-native/26-2025-04-04-istio-traffic-management-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-cloud-native/27-2025-04-04-istio-security-auth-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-cloud-native/28-2025-04-04-istio-authorization-deployment-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-cloud-native/29-2025-04-04-serverless-knative1-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-cloud-native/31-2025-04-04-gitops-tekton-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-cloud-native/32-2025-04-04-gitops-argocd1-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-cloud-native/33-2025-04-04-gitops-argocd2-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/magedu-cloud-native/34-2025-04-04-kubernetes-high-availability-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/promox/1-2025-03-29-promox-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/ubuntu/2024-02-20-kjc-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/ubuntu/2024-02-20-ubuntu-bmc-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/ubuntu/2024-02-20-ubuntu-cli-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/ubuntu/2024-02-20-ubuntu-disk-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/ubuntu/2024-02-20-ubuntu-install-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/ubuntu/2024-02-20-ubuntu-kernel-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/ubuntu/2024-02-20-ubuntu-mirror-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/ubuntu/2024-02-20-ubuntu-network-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/ubuntu/2024-02-20-ubuntu-nvme-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/ubuntu/2024-02-20-ubuntu-parted-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/ubuntu/2024-02-20-ubuntu-reboot-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/ubuntu/2024-02-20-ubuntu-ssh-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/1.Linux/windows/1-2025-04-16-windows-jumpserver-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/10.Ai-tools/2024-03-06-mj-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://yuki-0215.github.io/10.Ai-tools/Agent-skills/Agent-Skill-%E4%BB%8E%E4%BD%BF%E7%94%A8%E5%88%B0%E5%8E%9F%E7%90%86/</loc>
+         <lastmod>2026-08-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://yuki-0215.github.io/10.Ai-tools/Antigravity/1.antigravity-not-open-doc/</loc>
+         <lastmod>2026-08-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://yuki-0215.github.io/10.Ai-tools/Antigravity/2.antigravity-plugin-cockpit-doc/</loc>
+         <lastmod>2026-08-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://yuki-0215.github.io/10.Ai-tools/Antigravity/3.antigravity-multi-account-switching-more-quotas-doc/</loc>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/10.Ai-tools/ClaudeCode/MCP-README/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/10.Ai-tools/ClaudeCode/claude-code-chrome-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/10.Ai-tools/ClaudeCode/claude-code-self-operation/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/10.Ai-tools/ClaudeCode/claude-code-%E6%8A%80%E5%B7%A7/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/10.Ai-tools/ClaudeCode/mcp-installation-guide/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://yuki-0215.github.io/10.Ai-tools/ClaudeCode/SKILLS/srt-to-markdown/</loc>
+         <lastmod>2026-08-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://yuki-0215.github.io/10.Ai-tools/ClaudeCode/SKILLS/srt-to-markdown/SKILL/</loc>
+         <lastmod>2026-08-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://yuki-0215.github.io/10.Ai-tools/ClaudeCode/SKILLS/srt-to-markdown/scripts/README_COS_UPLOADER/</loc>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/10.Ai-tools/Langfuse/2024-03-14-opentelemetry-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/10.Ai-tools/Langfuse/2024-03-17-langfuse-deployment-guide/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/10.Ai-tools/ai-agent/mcp-server/claude-mcp-servers/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/10.Ai-tools/chatgpt/2024-02-20-chatgpt-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/10.Ai-tools/chatgpt/2024-02-20-chatgpt-pulgin-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/10.Ai-tools/chatgpt/2024-02-20-gpts-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/10.Ai-tools/cursor/2024-02-27-cursor-latest-features/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/10.Ai-tools/cursor/2024-02-27-cursor-model-performance/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/10.Ai-tools/cursor/2025-10-27-cursor-activitybar-vertical-setting/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/10.Ai-tools/nvidia/2025-12-03-%E5%A6%82%E4%BD%95%E6%A3%80%E6%9F%A5CUDA%E6%98%AF%E5%90%A6%E5%8F%AF%E7%94%A8/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/10.Ai-tools/nvidia/2025-12-17-NVIDIA-driver-install-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/10.Ai-tools/nvidia/LiteLLM-Proxy-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/10.Ai-tools/nvidia/Nvidia-gpu-compare/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/10.Ai-tools/nvidia/Nvidia-k8s-rdma/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/10.Ai-tools/nvidia/fake-gpu-operator-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/10.Ai-tools/openbayes/1-2024-03-27-wan-openbayes-deploy/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/10.Ai-tools/openbayes/1-2025-03-29-tju-gpu-error-FAQ-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://yuki-0215.github.io/10.Ai-tools/openbayes/10-2026-06-10-dram-uecc-auto-reboot-FAQ-doc/</loc>
+         <lastmod>2026-08-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://yuki-0215.github.io/10.Ai-tools/openbayes/11-2026-06-10-VLLM-MiniMax-M2-doc/</loc>
+         <lastmod>2026-08-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://yuki-0215.github.io/10.Ai-tools/openbayes/12-2026-06-12-cephfs-mds-client-recall-FAQ-doc/</loc>
+         <lastmod>2026-08-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://yuki-0215.github.io/10.Ai-tools/openbayes/13-2026-08-11-soulxsinger-sm120-torch-FAQ-doc/</loc>
+         <lastmod>2026-08-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://yuki-0215.github.io/10.Ai-tools/openbayes/14-2026-08-17-launchd-caffeinate-fail-FAQ-doc/</loc>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/10.Ai-tools/openbayes/2-2025-03-29-tju-gpu-ps-FAQ-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/10.Ai-tools/openbayes/3-2025-03-29-dev-cluster-FAQ-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/10.Ai-tools/openbayes/4-2025-03-29-delete-prometheus-db-FAQ-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/10.Ai-tools/openbayes/5-2025-03-29-kubernetes-pvc-ubound-FAQ-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/10.Ai-tools/openbayes/6-2025-03-29-dns-file-permission-FAQ-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/10.Ai-tools/openbayes/7-2025-03-29-osd-disk-expansion-FAQ-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://yuki-0215.github.io/10.Ai-tools/openbayes/9-2026-06-09-VLLM-Qwen3-235B-A22B-Thinking-2507-doc/</loc>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/10.Ai-tools/vllm/2024-02-28-vllm-chatglm3-6b-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/10.Ai-tools/vllm/2024-02-28-vllm-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/10.Ai-tools/vllm/2024-03-03-vllm-Qwen2.5-VL-72B/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/10.Ai-tools/vllm/2024-03-03-vllm-Qwen2.5-VL/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/10.Ai-tools/vllm/2024-03-13-vllm-docs-2/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://yuki-0215.github.io/10.Ai-tools/vllm/2026-08-20-qwen38-27b-vllm-concurrency/</loc>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.docker/2024-02-20-docker-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.docker/2024-02-20-docker-image-clash-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.docker/2024-02-20-docker-images-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.docker/2024-02-20-docker-proxy-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.docker/2025-03-27-containerd-cli-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.docker/containerd/2024-04-08-containerd-remove-none-tag-image-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.docker/dockerfile/2025-07-09-docker-jupyterlab-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.docker/dockerfile/20250-07-09-docker-dockerfie-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/2024-02-20-3-k8s-systeminit-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/2024-02-20-4-ansible-install-k8s/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/2024-02-20-ansible-install-k8s-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/2024-02-20-deploy-sts-ds-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/2024-02-20-k8s-calico-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/2024-02-20-k8s-configmap-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/2024-02-20-k8s-istio-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/2024-02-20-k8s-logs-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/2024-02-20-k8s-mon-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/2024-02-20-pod-base-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/2024-02-20-pod-hook-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/2024-03-10-kubeadm-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/2024-03-10-nerdctl-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/2024-9-19-k8s-update/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/2025-05-22-dragonfly-axiom-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/2025-12-10-k8s-secret-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/2025-12-2-k8s-delete-namespace-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/%E4%BB%80%E4%B9%88%E6%98%AF%E4%BA%91%E5%8E%9F%E7%94%9F/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/7.logging/fluentd/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/7.logging/logql/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/7.logging/loki/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/7.logging/pod-%E6%8B%93%E6%89%91%E5%88%86%E5%B8%83%E7%BA%A6%E6%9D%9F/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/7.logging/promtail/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/7.logging/%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%A8%A1%E5%BC%8F/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/7.logging/%E6%90%AD%E5%BB%BA-efk-%E6%97%A5%E5%BF%97%E7%B3%BB%E7%BB%9F/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/7.logging/%E6%97%A5%E5%BF%97%E6%8A%A5%E8%AD%A6/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/7.logging/%E6%97%A5%E5%BF%97%E6%94%B6%E9%9B%86%E6%9E%B6%E6%9E%84/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/7.logging/%E8%AF%BB%E5%86%99%E5%88%86%E7%A6%BB%E6%A8%A1%E5%BC%8F/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/7.logging/%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/base/k8s-limit-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/base/k8s-overview/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/calico/5-2025-04-07-calico-FAQ-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/cert-manager/1-2025-03-29-cert-manager-install-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/cks/cka/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/cks/cks/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/controller/StatefulSet/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/controller/deployment/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/controller/rs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/helm/0-2025-3-21-helm-install-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/helm/1-2025-3-21-helm-cli-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/helm/2-2025-3-21-helm-chart-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/helm/5-2025-04-10-helmfile-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/helm/helm/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/helm/FAQ/0-2025-4-10-helm-repo-update-warning-FAQ-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/k3s/1-2025-03-29-k3s-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/k3s/2-2025-03-29-k3s-install-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/monitoring/2025-12-24-Prometheus_Learning_Notes/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/monitoring/alertmanager/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/monitoring/grafana/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/monitoring/prometheus-operator/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/monitoring/prometheus/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/monitoring/promql/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/monitoring/victoriametrics/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/monitoring/%E8%87%AA%E5%AE%9A%E4%B9%89%E7%9B%91%E6%8E%A7%E6%8A%A5%E8%AD%A6/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/monitoring/%E9%AB%98%E7%BA%A7%E9%85%8D%E7%BD%AE/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/monitoring/%E9%BB%91%E7%9B%92%E7%9B%91%E6%8E%A7/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/network/2025-12-24-kubernetes-network-learning_Notes/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/network/apisix/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/network/dns-%E4%BC%98%E5%8C%96/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/network/frp/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/network/gateway-api/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/network/ingress-nginx/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/network/ingress-%E6%B5%81%E9%87%8F/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/network/ingress/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/network/service-profiles/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/network/service/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/network/traefik/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/network/%E6%9C%8D%E5%8A%A1%E5%8F%91%E7%8E%B0/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/other/k8s-ca-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/ui/rancher-update-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/2.k8s/yaml/yaml/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/20.mylife/2021-life-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/20.mylife/2022-life-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/20.mylife/2023-life-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/20.mylife/2024-9-24-myblog-life-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/20.mylife/2024-life-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/20.mylife/2025-learning-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/20.mylife/2025-life-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://yuki-0215.github.io/20.mylife/2025/2025-life-100w-doc/</loc>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/20.mylife/2025/2025-life-money-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/20.mylife/2025/2025-life-qianguize-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://yuki-0215.github.io/20.mylife/2026/2026-life-toupi-doc/</loc>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/3.develop/go/2024-02-20-1-go-base-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/3.develop/go/2024-02-20-2-go-operator-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/3.develop/go/2025-4-27-1-go-install-for-mac-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/3.develop/python/14-2025-08-07-python-except-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/3.develop/python/18-2025-04-15-python-standard-library-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/3.develop/python/2024-02-20-1-python-base-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/3.develop/python/2024-02-20-2-python-interaction-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/3.develop/python/2024-02-21-4-python-module-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/3.develop/python/2024-02-21-python-learning-plan/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/3.develop/python/2024-02-21-python-spider/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/3.develop/python/2024-02-21-time-module-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/3.develop/python/2024-03-06-3-python-pip-offline-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/3.develop/python/2025-03-27-5-python-poetry-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/3.develop/python/2025-04-15-python-package-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/3.develop/python/2025-05-23-python-concurrency-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/3.develop/python/24-2025-07-15-python-oop-object-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/3.develop/python/25-2025-07-16-python-py-oop2-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/3.develop/python/26-2025-07-17-python-property-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/3.develop/python/28-2025-07-17-python-py-concurrency-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/3.develop/python/29-2025-07-18-python-py-multiprocess-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/3.develop/python/30-2025-07-18-python-py-thread-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/3.develop/python/32-2025-07-17-python-py-venv-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/3.develop/python/33-2025-07-17-python-py-action-base-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/3.develop/python/6-2025-08-06-python-types-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/3.develop/python/7-2025-08-06-python-input-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/3.develop/python/8-2025-08-06-python-list-tuple-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/4.database/mysql/2024-02-20-1-mysql-base-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/4.database/mysql/2024-02-20-2-mysql-operator-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/4.database/mysql/2024-02-20-3-mysql-backup-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/4.database/mysql/2024-02-20-4-mysql-backup-error-FAQ-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/4.database/mysql/4-2025-04-09-mysql-port-forward-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/4.database/mysql/5-2025-04-10-mysql-Beekeeper-studio-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/4.database/redis/2024-02-20-1-redis-outline-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/4.database/redis/2024-02-20-2-redis-persistence-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/4.database/redis/2024-02-20-3-redis-cluster-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/4.database/redis/2024-02-20-4-redis-base-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/5.Storage/2024-02-20-5-dev-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/5.Storage/2024-02-20-6-ceph-crush-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/5.Storage/2024-02-20-ceph-base/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/5.Storage/2024-02-20-ceph-bucket/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/5.Storage/2024-02-20-ceph-cli-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/5.Storage/2024-02-20-ceph-error/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/5.Storage/2024-02-20-ceph-tools/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/5.Storage/2024-02-20-cephfs-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/5.Storage/2024-02-20-clean-ceph-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/5.Storage/2024-02-20-disk-ssd-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/5.Storage/2024-02-20-expand-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/5.Storage/2024-02-20-fio-benchmark/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/5.Storage/2024-02-20-gcluster/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/5.Storage/2024-02-20-juicefs-demo/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/5.Storage/2024-02-20-juicefs-update/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/5.Storage/2024-02-20-osd/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/5.Storage/2024-02-20-pv-rep/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/5.Storage/2024-02-20-rbd-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/5.Storage/2024-02-20-redis-cluster-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/5.Storage/2024-02-20-redis-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/5.Storage/2024-02-20-rook-ceph-update/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/5.Storage/2024-02-20-s3-client-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/5.Storage/2024-03-05-Juicefs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/5.Storage/2024-03-05-rook-ceph/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://yuki-0215.github.io/5.Storage/2026-07-03-rbd-fstrim-discard/</loc>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/5.Storage/rook-ceph/1-2024-04-08-rook-ceph-crd-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/6.Devops/2024-10-10-Github-rsync-Gitee/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/6.Devops/2024-9-26-Git-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/6.Devops/2025-07-16-git-merger-commit-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/6.Devops/2025-3-21-Gitignore-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/6.Devops/2025-3-27-conda-libmamba-solver-error-solution/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/6.Devops/2025-3-31-git-rebase-error-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/6.Devops/3-github-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/6.Devops/4-github-gitee-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/6.Devops/github/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/7.Web/http/1-2025-03-30-http-web-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/7.Web/nginx/2025-3-27-certbot_ssl_doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/8.Ansible/2024-02-20-ansible-case1/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/8.Ansible/2024-02-20-ansible-docs2/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/8.Ansible/2024-02-20-ansible-install-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/8.Ansible/2024-02-20-ansible-playbook/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/2024-02-20-discord-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/2024-02-20-google-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/2024-03-07-office-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/2025-03-27-usb-wifi-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/Macos/1-2025-03-29-mac-kubeconfig-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/Macos/10-2025-6-11-mac-ncdu-cli-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/Macos/11-2025-07-15-mac-cursor-disable-Tabnine-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/Macos/12-2025-07-16-mac-crontab-caffeinate-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/Macos/13-2025-8-25-mac-iso-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/Macos/2-2025-03-29-mac-k9s-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/Macos/3-2025-03-29-mac-usb-system-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/Macos/4-2025-03-29-mac-vscode-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/Macos/5-2025-03-27-mac-vscode-ssh-plugin-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/Macos/6-2024-02-20-mac-mkdocs-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/Macos/7-2025-04-11-mac-item2-ssh-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/Macos/8-2025-04-11-mac-item2-use-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/Macos/9-2025-05-06-mac-font-family-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/Macos/vim/1-2025-05-20-mac-vim-doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/Opsdaily/1-2025-03-27-ops-screen-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/google/1-2025-6-13-google-zh.doc/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/misc/argo-rollouts/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/misc/chart-hooks/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/misc/charts/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/misc/configmap/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/misc/crane/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/misc/dapr-bindings/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/misc/dapr/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/misc/descheduler/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/misc/documentation-that-simply-works/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/misc/gitlab/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/misc/gitops/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/misc/harbor/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/misc/helm/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/misc/jenkins-pipeline/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/misc/jenkins/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/misc/linkerd/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/misc/notes.txt-%E6%96%87%E4%BB%B6/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/misc/secret/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/misc/secrets-store/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/misc/subcharts-%E5%92%8C-global-values/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/misc/tekton/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/misc/values-%E6%96%87%E4%BB%B6/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/misc/zadig/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/misc/%E4%B8%AD%E9%97%B4%E4%BB%B6/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/misc/%E4%BB%BB%E5%8A%A1/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/misc/%E4%BD%BF%E7%94%A8-mtls-%E4%BF%9D%E6%8A%A4%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E9%80%9A%E4%BF%A1/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/misc/%E5%86%85%E7%BD%AE%E5%AF%B9%E8%B1%A1/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/misc/%E5%87%BD%E6%95%B0%E5%92%8C%E7%AE%A1%E9%81%93/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/misc/%E5%8D%87%E7%BA%A7-linkerd/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/misc/%E5%8F%91%E5%B8%83%E8%AE%A2%E9%98%85/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/misc/%E5%8F%98%E9%87%8F/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/misc/%E5%8F%AF%E8%A7%82%E6%B5%8B%E6%80%A7/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/misc/%E5%91%BD%E5%90%8D%E6%A8%A1%E6%9D%BF/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/misc/%E6%9C%8D%E5%8A%A1%E8%B4%A8%E9%87%8F/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/misc/%E6%A8%A1%E6%9D%BF%E8%B0%83%E8%AF%95/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/misc/%E6%B5%81%E6%B0%B4%E7%BA%BF/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/misc/%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/misc/%E6%B5%81%E9%87%8F%E6%8B%86%E5%88%86/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/misc/%E7%94%9F%E4%BA%A7%E7%8E%AF%E5%A2%83%E4%BD%BF%E7%94%A8-linkerd/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/misc/%E8%A7%A6%E5%8F%91%E5%99%A8%E5%92%8C%E4%BA%8B%E4%BB%B6%E7%9B%91%E5%90%AC%E5%99%A8/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/misc/%E8%AE%BF%E9%97%AE%E6%96%87%E4%BB%B6/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/misc/%E8%B0%83%E5%BA%A6/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/misc/%E8%B0%83%E5%BA%A6%E5%99%A8/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/misc/%E9%BB%84%E9%87%91%E6%8C%87%E6%A0%87/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/9.other/rustdesk/2026-01-06-%E8%87%AA%E5%BB%BARustDesk%E8%BF%9C%E7%A8%8B%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/basic/5-kubernetes-UI-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/basic/6-kubernetes-etcd-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/basic/7-kubernetes-coredns-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/basic/7-kubernetes-update-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/basic/9-install-keepalived-cluster/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/basic/cncf-docs/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/basic/etcd/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yuki-0215.github.io/basic/overview/</loc>
-         <lastmod>2026-01-07</lastmod>
+         <lastmod>2026-08-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://yuki-0215.github.io/case/%E5%81%9A%E8%AE%BE%E8%AE%A1%E7%9A%84%E9%9D%A2%E6%9D%A1/35%E5%B2%81%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%B0%88%E6%81%8B%E7%88%B1%E8%A2%AB%E5%B7%B2%E5%A9%9A%E6%B8%A3%E7%94%B7%E8%AF%88%E9%AA%97%E7%99%BE%E4%B8%87/</loc>
+         <lastmod>2026-08-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://yuki-0215.github.io/case/%E5%81%9A%E8%AE%BE%E8%AE%A1%E7%9A%84%E9%9D%A2%E6%9D%A1/ta%E5%85%B6%E5%AE%9E%E5%B9%B6%E6%B2%A1%E6%9C%89%E9%82%A3%E4%B9%88%E5%96%9C%E6%AC%A2%E4%BD%A0%E5%88%86%E6%89%8B%E5%A4%8D%E5%90%88%E7%89%88/</loc>
+         <lastmod>2026-08-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://yuki-0215.github.io/case/%E5%81%9A%E8%AE%BE%E8%AE%A1%E7%9A%84%E9%9D%A2%E6%9D%A1/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%A0%E6%89%BE%E7%9A%84%E7%94%B7%E6%9C%8B%E5%8F%8B%E9%83%BD%E6%98%AF%E5%96%9C%E6%AC%A2%E5%93%AD%E7%A9%B7%E5%8D%96%E6%83%A8%E7%9A%84%E7%B1%BB%E5%9E%8B/</loc>
+         <lastmod>2026-08-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://yuki-0215.github.io/case/%E5%81%9A%E8%AE%BE%E8%AE%A1%E7%9A%84%E9%9D%A2%E6%9D%A1/%E4%B9%85%E7%97%85%E6%88%90%E5%8C%BB/</loc>
+         <lastmod>2026-08-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://yuki-0215.github.io/case/%E5%81%9A%E8%AE%BE%E8%AE%A1%E7%9A%84%E9%9D%A2%E6%9D%A1/%E5%AD%98%E9%92%B1%E4%B8%8D%E5%A6%82%E5%AD%98%E4%BA%BA/</loc>
+         <lastmod>2026-08-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://yuki-0215.github.io/case/%E5%81%9A%E8%AE%BE%E8%AE%A1%E7%9A%84%E9%9D%A2%E6%9D%A1/%E5%AD%A6%E4%BC%9A%E7%94%A8%E7%B3%BB%E7%BB%9F%E6%80%A7%E6%80%9D%E7%BB%B4%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98/</loc>
+         <lastmod>2026-08-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://yuki-0215.github.io/case/%E5%81%9A%E8%AE%BE%E8%AE%A1%E7%9A%84%E9%9D%A2%E6%9D%A1/%E6%9C%89%E9%92%B1%E4%BA%BA%E5%8F%AF%E8%83%BD%E8%B7%9F%E4%BD%A0%E6%83%B3%E5%83%8F%E7%9A%84%E4%B8%8D%E5%A4%AA%E4%B8%80%E6%A0%B7/</loc>
+         <lastmod>2026-08-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://yuki-0215.github.io/case/%E5%81%9A%E8%AE%BE%E8%AE%A1%E7%9A%84%E9%9D%A2%E6%9D%A1/%E6%B2%A1%E6%9C%89%E5%BF%98%E4%B8%8D%E4%BA%86%E7%9A%84%E5%89%8D%E4%BB%BB/</loc>
+         <lastmod>2026-08-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://yuki-0215.github.io/case/%E5%81%9A%E8%AE%BE%E8%AE%A1%E7%9A%84%E9%9D%A2%E6%9D%A1/%E7%BB%99%E6%99%AE%E9%80%9A%E7%94%B7%E7%94%9F%E5%92%8C%E5%A5%B3%E7%94%9F%E7%9A%84%E4%B8%80%E4%BA%9B%E7%9B%B8%E4%BA%B2%E5%BB%BA%E8%AE%AE/</loc>
+         <lastmod>2026-08-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://yuki-0215.github.io/case/%E5%81%9A%E8%AE%BE%E8%AE%A1%E7%9A%84%E9%9D%A2%E6%9D%A1/%E8%87%AA%E6%8E%8F%E8%85%B0%E5%8C%85%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD%E4%BA%86500%E5%85%83%E9%92%B1%E7%9B%B8%E4%BA%B2%E5%AF%B9%E8%B1%A1%E5%B1%85%E7%84%B6%E7%8B%AC%E5%90%9E%E4%BA%86/</loc>
+         <lastmod>2026-08-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://yuki-0215.github.io/case/%E5%81%9A%E8%AE%BE%E8%AE%A1%E7%9A%84%E9%9D%A2%E6%9D%A1/%E8%B7%9F%E7%94%B7%E5%8F%8B%E5%90%8C%E5%B1%85%E4%BD%8F%E6%9C%88%E7%A7%9F500%E5%85%83%E7%9A%84%E6%88%BF%E5%AD%90%E7%94%9F%E6%B4%BB%E5%BC%80%E9%94%80AA%E5%88%B6%E5%AE%B6%E5%8A%A1%E6%B4%BB%E5%85%A8%E5%8C%85%E7%94%B7%E5%8F%8B%E5%8D%B4%E8%AE%A4%E4%B8%BA%E8%B7%9F%E7%9D%80%E4%BB%96%E6%98%AF%E5%9C%A8%E4%BA%AB%E7%A6%8F/</loc>
+         <lastmod>2026-08-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://yuki-0215.github.io/case/%E5%81%9A%E8%AE%BE%E8%AE%A1%E7%9A%84%E9%9D%A2%E6%9D%A1/%E8%BF%99%E4%BA%9B%E9%83%BD%E6%98%AFPUA/</loc>
+         <lastmod>2026-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
