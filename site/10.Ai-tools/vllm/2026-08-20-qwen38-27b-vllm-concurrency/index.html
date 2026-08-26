@@ -71,7 +71,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#qwen38-27b-pro-6000-vllm" class="md-skip">
+        <a href="#qwen38-27b-fp8-nvfp4" class="md-skip">
           跳转至
         </a>
       
@@ -6611,55 +6611,28 @@
       
         <li class="md-nav__item">
   <a href="#_1" class="md-nav__link">
-    一、实验怎么跑的
+    一、先把测试条件说清楚
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#c1-c8" class="md-nav__link">
-    二、C1 到 C8，数字怎么走
-  </a>
-  
-    <nav class="md-nav" aria-label="二、C1 到 C8，数字怎么走">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#c1" class="md-nav__link">
-    C1：单流基线
+  <a href="#fp8" class="md-nav__link">
+    二、从原始权重换到 FP8，提升是肉眼可见的
   </a>
   
 </li>
-        
-          <li class="md-nav__item">
-  <a href="#c2" class="md-nav__link">
-    C2：两路并发
+      
+        <li class="md-nav__item">
+  <a href="#nvfp4" class="md-nav__link">
+    三、NVFP4 的优势，到了并发场景才真正拉开
   </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#c4" class="md-nav__link">
-    C4：折中档
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#c8" class="md-nav__link">
-    C8：吞吐峰值
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#_2" class="md-nav__link">
-    三、怎么选并发
+    四、如果让我选，我会怎么配？
   </a>
   
 </li>
@@ -7508,55 +7481,28 @@
       
         <li class="md-nav__item">
   <a href="#_1" class="md-nav__link">
-    一、实验怎么跑的
+    一、先把测试条件说清楚
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#c1-c8" class="md-nav__link">
-    二、C1 到 C8，数字怎么走
-  </a>
-  
-    <nav class="md-nav" aria-label="二、C1 到 C8，数字怎么走">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#c1" class="md-nav__link">
-    C1：单流基线
+  <a href="#fp8" class="md-nav__link">
+    二、从原始权重换到 FP8，提升是肉眼可见的
   </a>
   
 </li>
-        
-          <li class="md-nav__item">
-  <a href="#c2" class="md-nav__link">
-    C2：两路并发
+      
+        <li class="md-nav__item">
+  <a href="#nvfp4" class="md-nav__link">
+    三、NVFP4 的优势，到了并发场景才真正拉开
   </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#c4" class="md-nav__link">
-    C4：折中档
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#c8" class="md-nav__link">
-    C8：吞吐峰值
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#_2" class="md-nav__link">
-    三、怎么选并发
+    四、如果让我选，我会怎么配？
   </a>
   
 </li>
@@ -7578,19 +7524,15 @@
 </a>
 
 
-<h1 id="qwen38-27b-pro-6000-vllm">Qwen3.8-27B 在 PRO 6000 上的 vLLM 并发压测<a class="headerlink" href="#qwen38-27b-pro-6000-vllm" title="Permanent link">&para;</a></h1>
-<p>Qwen3.8-27B 刚出来。我想先摸清一件事：单卡 PRO 6000、vLLM 短输出时，并发从 1 拉到 8，吞吐和延迟到底怎么变。</p>
-<p>这次 InferBench 里跑完的，是<strong>原始未量化模型</strong>的 C1 / C2 / C4 / C8。不是 FP8，也不是 FP4。那两组精度对比，数据进同一套实验台后再补。</p>
-<p>结论先放前面：</p>
-<ul>
-<li>单流大约 <strong>42 tok/s</strong>，P95 约 <strong>754 ms</strong>。</li>
-<li>并发 8 时总吞吐到 <strong>248 tok/s</strong>，大约是 C1 的 <strong>5.86 倍</strong>，不是 8 倍。</li>
-<li>单流速度会掉到 <strong>31 tok/s</strong>，P95 涨到 <strong>1.12 s</strong>。</li>
-<li>要吞吐选 C8。要稳延迟，别把并发拉满。</li>
-</ul>
-<h2 id="_1">一、实验怎么跑的<a class="headerlink" href="#_1" title="Permanent link">&para;</a></h2>
-<p>硬件是 PRO 6000。推理走 vLLM，OpenBayes serving。压测用 InferBench Local 0.1.3。</p>
-<p>固定条件：</p>
+<h1 id="qwen38-27b-fp8-nvfp4">Qwen3.8-27B 三种精度实测：原始、FP8 和 NVFP4 到底差多少？<a class="headerlink" href="#qwen38-27b-fp8-nvfp4" title="Permanent link">&para;</a></h1>
+<p>写在前面。</p>
+<p>Qwen3.8-27B 出来后，我一直想把一件事测清楚：同一张卡、同一套 prompts、同样生成 128 tokens，原始权重、FP8 和 NVFP4 到底能差多少？</p>
+<p>这种测试最怕条件不一致。你拿 32 tokens 的结果和 128 tokens 比，或者换一套 prompts、换一个并发，数字看起来都很漂亮，但其实说明不了什么。</p>
+<p>所以这一次我把条件全部重新对齐了。</p>
+<p>硬件是单卡 NVIDIA RTX PRO 6000，推理框架是 vLLM。三种权重都跑 C1、C2、C4、C8，每档 3 轮，每轮 128 个请求，并且每个请求都生成 128 tokens。</p>
+<p>最后的结果很直接：原始权重 C8 只有 292 tok/s 左右，FP8 能跑到 425 tok/s，NVFP4 则到了 477 tok/s。</p>
+<p>也就是说，量化不只是省显存。至少在这张卡、这个模型和这套参数下，它实实在在把吞吐拉高了，而且延迟还更低。</p>
+<h2 id="_1">一、先把测试条件说清楚<a class="headerlink" href="#_1" title="Permanent link">&para;</a></h2>
 <table>
 <thead>
 <tr>
@@ -7601,23 +7543,31 @@
 <tbody>
 <tr>
 <td>模型</td>
-<td><code>qwen3.8-27b</code>（suite：<code>qwen3.8-27b-原始模型</code>）</td>
+<td>Qwen3.8-27B</td>
 </tr>
 <tr>
-<td>框架</td>
-<td>vLLM</td>
+<td>权重</td>
+<td>原始 / FP8 / NVFP4（Unsloth）</td>
 </tr>
 <tr>
 <td>GPU</td>
 <td>NVIDIA RTX PRO 6000</td>
 </tr>
 <tr>
-<td>并发矩阵</td>
+<td>框架</td>
+<td>vLLM</td>
+</tr>
+<tr>
+<td>压测工具</td>
+<td>InferBench</td>
+</tr>
+<tr>
+<td>并发</td>
 <td>1 / 2 / 4 / 8</td>
 </tr>
 <tr>
 <td>每档轮次</td>
-<td>计划 3 轮</td>
+<td>3</td>
 </tr>
 <tr>
 <td>每轮请求</td>
@@ -7625,7 +7575,7 @@
 </tr>
 <tr>
 <td>Max tokens</td>
-<td>32</td>
+<td>128</td>
 </tr>
 <tr>
 <td>temperature</td>
@@ -7637,157 +7587,309 @@
 </tr>
 <tr>
 <td>Prompts</td>
-<td>3 条循环使用</td>
+<td>3 条循环，三组完全一致</td>
 </tr>
 </tbody>
 </table>
-<p>Serving 地址：<code>https://lixie-50x8pe17q0k7.gear-c1.openbayes.net/v1/chat/completions</code></p>
-<p>C1 的第三轮中途取消了，只成功 17 个请求。下面 C1 只用完成的 R1、R2。C2 / C4 / C8 三轮都跑满，全部 128/128 成功。</p>
-<p>服务端日志里，这套 serving 开了 speculative decoding。C1 附近 generation 大约 42.5 tok/s，draft 接受率大约 78%。InferBench 这次没采到 TTFT / TPOT，延迟看的是端到端。</p>
-<p>短输出场景。max tokens 只有 32。长生成、长上下文，数字会换一套，别直接外推。</p>
-<p>InferBench 总览。右侧是 C1–C8 全部实验记录：</p>
-<p><img alt="InferBench 总览" src="https://barry-boy-1311671045.cos.ap-beijing.myqcloud.com/blog/20260820192106-inferbench-overview-wide.png" /></p>
-<h2 id="c1-c8">二、C1 到 C8，数字怎么走<a class="headerlink" href="#c1-c8" title="Permanent link">&para;</a></h2>
-<p>InferBench 按重复轮次做了均值。吞吐波动都很小，CV 在 0.9%～1.2%。</p>
+<p>36 轮实验全部完成，每轮都是 128/128 请求成功。</p>
+<p>这里还有一个限制需要提前说：InferBench 这次没有采到 TTFT 和 TPOT，所以文中的延迟统一看端到端 P50 / P95。它能回答“一个请求多久完成”，但不能单独告诉你首 token 有多快。</p>
+<p>另外，Serving 地址、内部实验台地址和私密配置都没有写进来。文章只保留可公开的环境信息和测试结果。</p>
+<h2 id="fp8">二、从原始权重换到 FP8，提升是肉眼可见的<a class="headerlink" href="#fp8" title="Permanent link">&para;</a></h2>
+<p>先看原始权重。</p>
 <table>
 <thead>
 <tr>
 <th>并发</th>
-<th>有效轮次</th>
 <th>输出吞吐</th>
 <th>请求吞吐</th>
-<th>Latency P50</th>
-<th>Latency P95</th>
-<th>墙钟</th>
+<th>P50</th>
+<th>P95</th>
 <th>相对 C1</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>C1</td>
-<td>2</td>
-<td>42.36 tok/s</td>
-<td>1.32 req/s</td>
-<td>733 ms</td>
-<td>754 ms</td>
-<td>96.7 s</td>
-<td>1.00x</td>
-</tr>
-<tr>
-<td>C2</td>
-<td>3</td>
-<td>78.14 tok/s</td>
-<td>2.44 req/s</td>
-<td>788 ms</td>
-<td>840 ms</td>
-<td>52.4 s</td>
-<td>1.84x</td>
-</tr>
-<tr>
-<td>C4</td>
-<td>3</td>
-<td>138.47 tok/s</td>
-<td>4.33 req/s</td>
-<td>884 ms</td>
-<td>1014 ms</td>
-<td>29.6 s</td>
-<td>3.27x</td>
-</tr>
-<tr>
-<td>C8</td>
-<td>3</td>
-<td>248.26 tok/s</td>
-<td>7.76 req/s</td>
-<td>984 ms</td>
-<td>1124 ms</td>
-<td>16.5 s</td>
-<td>5.86x</td>
-</tr>
-</tbody>
-</table>
-<p>单流吞吐更有参考价值。把总吞吐除以并发：</p>
-<table>
-<thead>
-<tr>
-<th>并发</th>
 <th>单流 tok/s</th>
-<th>相对 C1</th>
 <th>线性效率</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>C1</td>
-<td>42.36</td>
-<td>100%</td>
+<td>43.29 tok/s</td>
+<td>0.34 req/s</td>
+<td>2.94 s</td>
+<td>3.05 s</td>
+<td>1.00x</td>
+<td>43.29</td>
 <td>100%</td>
 </tr>
 <tr>
 <td>C2</td>
-<td>39.07</td>
-<td>92%</td>
-<td>92%</td>
+<td>83.81 tok/s</td>
+<td>0.66 req/s</td>
+<td>3.00 s</td>
+<td>3.33 s</td>
+<td>1.94x</td>
+<td>41.91</td>
+<td>97%</td>
 </tr>
 <tr>
 <td>C4</td>
-<td>34.62</td>
-<td>82%</td>
-<td>82%</td>
+<td>158.94 tok/s</td>
+<td>1.24 req/s</td>
+<td>3.16 s</td>
+<td>3.49 s</td>
+<td>3.67x</td>
+<td>39.74</td>
+<td>92%</td>
 </tr>
 <tr>
 <td>C8</td>
-<td>31.03</td>
-<td>73%</td>
-<td>73%</td>
+<td>291.61 tok/s</td>
+<td>2.28 req/s</td>
+<td>3.43 s</td>
+<td>3.77 s</td>
+<td>6.74x</td>
+<td>36.45</td>
+<td>84%</td>
 </tr>
 </tbody>
 </table>
-<p>并发加倍，总吞吐在涨。单流在掉。延迟也在涨。这是正常的。GPU 在更多请求之间分算力，排队变长。</p>
-<h3 id="c1">C1：单流基线<a class="headerlink" href="#c1" title="Permanent link">&para;</a></h3>
-<p><img alt="原始模型 C1" src="https://barry-boy-1311671045.cos.ap-beijing.myqcloud.com/blog/20260820192106-inferbench-c1-wide.png" /></p>
-<p>均值约 42.4 tok/s，P95 754 ms。R3 取消，不计入均值。</p>
-<ul>
-<li>R1：42.77 tok/s，P95 753.8 ms</li>
-<li>R2：41.95 tok/s，P95 754.0 ms</li>
-</ul>
-<p>对应 serving 日志。generation 和 InferBench 对得上，大约 42.5 tok/s：</p>
-<p><img alt="vLLM 服务端日志" src="https://barry-boy-1311671045.cos.ap-beijing.myqcloud.com/blog/20260820180728.png" /></p>
-<h3 id="c2">C2：两路并发<a class="headerlink" href="#c2" title="Permanent link">&para;</a></h3>
-<p><img alt="原始模型 C2" src="https://barry-boy-1311671045.cos.ap-beijing.myqcloud.com/blog/20260820192106-inferbench-c2-wide.png" /></p>
-<p>总吞吐约 78 tok/s，大约是 C1 的 1.84 倍。单流只掉到 39 tok/s。</p>
-<ul>
-<li>R1：77.18 tok/s，P95 840.5 ms</li>
-<li>R2：78.72 tok/s，P95 841.7 ms</li>
-<li>R3：78.50 tok/s，P95 838.7 ms</li>
-</ul>
-<h3 id="c4">C4：折中档<a class="headerlink" href="#c4" title="Permanent link">&para;</a></h3>
-<p><img alt="原始模型 C4" src="https://barry-boy-1311671045.cos.ap-beijing.myqcloud.com/blog/20260820192106-inferbench-c4-wide.png" /></p>
-<p>总吞吐约 138 tok/s。P95 刚过 1 秒。线性效率还剩 82%。</p>
-<ul>
-<li>R1：136.52 tok/s，P95 1021.4 ms</li>
-<li>R2：138.81 tok/s，P95 1026.8 ms</li>
-<li>R3：140.08 tok/s，P95 992.4 ms</li>
-</ul>
-<h3 id="c8">C8：吞吐峰值<a class="headerlink" href="#c8" title="Permanent link">&para;</a></h3>
-<p><img alt="原始模型 C8" src="https://barry-boy-1311671045.cos.ap-beijing.myqcloud.com/blog/20260820192106-inferbench-c8-wide.png" /></p>
-<p>总吞吐约 248 tok/s，相对 C1 是 5.86 倍。单流掉到 31 tok/s，P95 约 1.12 s。</p>
-<ul>
-<li>R1：249.56 tok/s，P95 1104.2 ms</li>
-<li>R2：244.17 tok/s，P95 1143.7 ms</li>
-<li>R3：251.05 tok/s，P95 1122.7 ms</li>
-</ul>
-<p>同一档里三轮几乎贴在一起。这套 serving 稳定。瓶颈不在抖动，在并发升高后的单流掉速。</p>
-<h2 id="_2">三、怎么选并发<a class="headerlink" href="#_2" title="Permanent link">&para;</a></h2>
-<p>按这次短输出结果，我会这么切：</p>
-<p><strong>交互、对话、要手感：C1 或 C2。</strong><br />
-C1 单流最快，P95 754 ms。C2 总吞吐接近翻倍，单流只掉 8%，P95 到 840 ms。两个人同时用，C2 更划算。</p>
-<p><strong>小流量 API：C4。</strong><br />
-总吞吐 138 tok/s，大约是 C1 的 3.3 倍。P95 刚过 1 秒。线性效率还有 82%。这是吞吐和延迟的折中点。</p>
-<p><strong>要打满卡、做批量：C8。</strong><br />
-248 tok/s 是这张表的峰值。相对 C1 是 5.86 倍，不是 8 倍。单流掉到 31 tok/s，P95 1.12 s。还能涨，但已经明显吃排队。</p>
-<p>不要假设并发越高越赚。C1→C8，总吞吐涨了，单用户变慢了。线上先看 SLA。P95 不能过 1 秒，就别默认 C8。</p>
-<p>这次没测质量。也没测 FP8 / FP4。量化通常换显存和吞吐，不一定换并发曲线的形状。那两组用同一套 prompts、同一套 C1–C8 矩阵再跑，才能并到一张表里。</p>
-<p>数据源：InferBench suite <code>qwen3.8-27b-原始模型</code>，2026-08-20。</p>
+<p>原始权重的并发扩展其实不差。</p>
+<p>C1 到 C8，总吞吐从 43 tok/s 涨到 292 tok/s，放大了 6.74 倍，线性效率还有 84%。问题不在于它不会扩展，而是底子确实慢：单流只有 43 tok/s 左右，C8 的 P95 也已经到了 3.77 秒。</p>
+<p><img alt="原始权重 C1" src="https://barry-boy-1311671045.cos.ap-beijing.myqcloud.com/blog/20260826165043-inferbench-m128-source-c1-wide.png" /></p>
+<p><img alt="原始权重 C2" src="https://barry-boy-1311671045.cos.ap-beijing.myqcloud.com/blog/20260826165043-inferbench-m128-source-c2-wide.png" /></p>
+<p><img alt="原始权重 C4" src="https://barry-boy-1311671045.cos.ap-beijing.myqcloud.com/blog/20260826165043-inferbench-m128-source-c4-wide.png" /></p>
+<p><img alt="原始权重 C8" src="https://barry-boy-1311671045.cos.ap-beijing.myqcloud.com/blog/20260826165043-inferbench-m128-source-c8-wide.png" /></p>
+<p>再看 FP8。</p>
+<table>
+<thead>
+<tr>
+<th>并发</th>
+<th>输出吞吐</th>
+<th>请求吞吐</th>
+<th>P50</th>
+<th>P95</th>
+<th>相对 C1</th>
+<th>单流 tok/s</th>
+<th>线性效率</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>C1</td>
+<td>70.33 tok/s</td>
+<td>0.55 req/s</td>
+<td>1.83 s</td>
+<td>1.92 s</td>
+<td>1.00x</td>
+<td>70.33</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>C2</td>
+<td>131.06 tok/s</td>
+<td>1.02 req/s</td>
+<td>1.88 s</td>
+<td>2.23 s</td>
+<td>1.86x</td>
+<td>65.53</td>
+<td>93%</td>
+</tr>
+<tr>
+<td>C4</td>
+<td>241.49 tok/s</td>
+<td>1.89 req/s</td>
+<td>2.07 s</td>
+<td>2.36 s</td>
+<td>3.43x</td>
+<td>60.37</td>
+<td>86%</td>
+</tr>
+<tr>
+<td>C8</td>
+<td>425.43 tok/s</td>
+<td>3.32 req/s</td>
+<td>2.32 s</td>
+<td>2.68 s</td>
+<td>6.05x</td>
+<td>53.18</td>
+<td>76%</td>
+</tr>
+</tbody>
+</table>
+<p>这组数据有两个地方值得注意。</p>
+<p>第一个是单流。C1 从原始权重的 43 tok/s 直接涨到 70 tok/s，提升了 62%。这不是跑分里才看得见的小数点差距，而是实际对话时能感觉出来的变化。</p>
+<p>第二个是延迟。同样在 C8，FP8 的吞吐比原始权重高了 46%，P95 却从 3.77 秒降到了 2.68 秒。通常我们会担心“吞吐上去了，单个请求会不会更慢”，但这次没有。FP8 是吞吐和延迟一起变好。</p>
+<p>三轮之间也很稳。C1 和 C8 的吞吐 CV 分别只有 0.2% 和 0.5%，所以这不是某一轮偶然跑出来的高分。</p>
+<p><img alt="FP8 C1" src="https://barry-boy-1311671045.cos.ap-beijing.myqcloud.com/blog/20260826150511-inferbench-m128-fp8-c1-wide.png" /></p>
+<p><img alt="FP8 C2" src="https://barry-boy-1311671045.cos.ap-beijing.myqcloud.com/blog/20260826151526-inferbench-m128-fp8-c2-wide.png" /></p>
+<p><img alt="FP8 C4" src="https://barry-boy-1311671045.cos.ap-beijing.myqcloud.com/blog/20260826150511-inferbench-m128-fp8-c4-wide.png" /></p>
+<p><img alt="FP8 C8" src="https://barry-boy-1311671045.cos.ap-beijing.myqcloud.com/blog/20260826150511-inferbench-m128-fp8-c8-wide.png" /></p>
+<h2 id="nvfp4">三、NVFP4 的优势，到了并发场景才真正拉开<a class="headerlink" href="#nvfp4" title="Permanent link">&para;</a></h2>
+<p>如果只看 C1，NVFP4 和 FP8 其实没有差得特别多。</p>
+<p>FP8 是 70.33 tok/s，NVFP4 是 72.04 tok/s，只快了 2%。如果测试只跑单并发，很容易得出一个结论：FP4 好像也没比 FP8 快多少。</p>
+<p>但把并发拉起来后，事情就不一样了。</p>
+<table>
+<thead>
+<tr>
+<th>并发</th>
+<th>输出吞吐</th>
+<th>请求吞吐</th>
+<th>P50</th>
+<th>P95</th>
+<th>相对 C1</th>
+<th>单流 tok/s</th>
+<th>线性效率</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>C1</td>
+<td>72.04 tok/s</td>
+<td>0.56 req/s</td>
+<td>1.81 s</td>
+<td>1.86 s</td>
+<td>1.00x</td>
+<td>72.04</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>C2</td>
+<td>148.94 tok/s</td>
+<td>1.16 req/s</td>
+<td>1.66 s</td>
+<td>1.95 s</td>
+<td>2.07x</td>
+<td>74.47</td>
+<td>103%</td>
+</tr>
+<tr>
+<td>C4</td>
+<td>271.48 tok/s</td>
+<td>2.12 req/s</td>
+<td>1.85 s</td>
+<td>2.07 s</td>
+<td>3.77x</td>
+<td>67.87</td>
+<td>94%</td>
+</tr>
+<tr>
+<td>C8</td>
+<td>476.64 tok/s</td>
+<td>3.72 req/s</td>
+<td>2.10 s</td>
+<td>2.36 s</td>
+<td>6.62x</td>
+<td>59.58</td>
+<td>83%</td>
+</tr>
+</tbody>
+</table>
+<p>C2 时，NVFP4 比 FP8 快 14%；C4 和 C8 也都快了 12%左右。</p>
+<p>最有意思的是 C2。总吞吐达到 C1 的 2.07 倍，算下来单流反而从 72.04 涨到了 74.47 tok/s。这个 103% 不是算错了，而是单并发时 GPU 没有完全吃满，到了 C2，batching 反而把利用率提了起来。</p>
+<p>当然，这不代表继续加并发就能一直超线性。到了 C4 和 C8，单流速度还是会往下掉。只不过 NVFP4 掉得更慢，C8 还能保留 83% 的线性效率，比 FP8 的 76% 更好。</p>
+<p>C8 三轮的吞吐 CV 只有 0.25%，基本都稳定在 477 tok/s 左右。P95 是 2.36 秒，比 FP8 C8 少了约 320 ms，比原始权重少了 1.4 秒。</p>
+<p><img alt="NVFP4 C1" src="https://barry-boy-1311671045.cos.ap-beijing.myqcloud.com/blog/20260826150511-inferbench-m128-fp4-c1-wide.png" /></p>
+<p><img alt="NVFP4 C2" src="https://barry-boy-1311671045.cos.ap-beijing.myqcloud.com/blog/20260826151526-inferbench-m128-fp4-c2-wide.png" /></p>
+<p><img alt="NVFP4 C4" src="https://barry-boy-1311671045.cos.ap-beijing.myqcloud.com/blog/20260826150511-inferbench-m128-fp4-c4-wide.png" /></p>
+<p><img alt="NVFP4 C8" src="https://barry-boy-1311671045.cos.ap-beijing.myqcloud.com/blog/20260826150511-inferbench-m128-fp4-c8-wide.png" /></p>
+<p>把三组放到一起看，会更直观：</p>
+<table>
+<thead>
+<tr>
+<th>并发</th>
+<th>原始 tok/s</th>
+<th>FP8 tok/s</th>
+<th>NVFP4 tok/s</th>
+<th>FP8 / 原始</th>
+<th>NVFP4 / 原始</th>
+<th>NVFP4 / FP8</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>C1</td>
+<td>43.29</td>
+<td>70.33</td>
+<td>72.04</td>
+<td>1.62x</td>
+<td>1.66x</td>
+<td>1.02x</td>
+</tr>
+<tr>
+<td>C2</td>
+<td>83.81</td>
+<td>131.06</td>
+<td>148.94</td>
+<td>1.56x</td>
+<td>1.78x</td>
+<td>1.14x</td>
+</tr>
+<tr>
+<td>C4</td>
+<td>158.94</td>
+<td>241.49</td>
+<td>271.48</td>
+<td>1.52x</td>
+<td>1.71x</td>
+<td>1.12x</td>
+</tr>
+<tr>
+<td>C8</td>
+<td>291.61</td>
+<td>425.43</td>
+<td>476.64</td>
+<td>1.46x</td>
+<td>1.63x</td>
+<td>1.12x</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>并发</th>
+<th>原始 P95</th>
+<th>FP8 P95</th>
+<th>NVFP4 P95</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>C1</td>
+<td>3.05 s</td>
+<td>1.92 s</td>
+<td>1.86 s</td>
+</tr>
+<tr>
+<td>C2</td>
+<td>3.33 s</td>
+<td>2.23 s</td>
+<td>1.95 s</td>
+</tr>
+<tr>
+<td>C4</td>
+<td>3.49 s</td>
+<td>2.36 s</td>
+<td>2.07 s</td>
+</tr>
+<tr>
+<td>C8</td>
+<td>3.77 s</td>
+<td>2.68 s</td>
+<td>2.36 s</td>
+</tr>
+</tbody>
+</table>
+<h2 id="_2">四、如果让我选，我会怎么配？<a class="headerlink" href="#_2" title="Permanent link">&para;</a></h2>
+<p>只看这轮数据，我会直接选 NVFP4。</p>
+<p>交互式应用用 C1 或 C2。C1 单流 72 tok/s，追求的是一个人用起来快；C2 总吞吐接近 149 tok/s，P95 还在 2 秒附近，更适合有少量并发的服务。</p>
+<p>如果既想要吞吐，又不想让延迟涨得太厉害，我会选 C4。271 tok/s、P95 2.07 秒、线性效率 94%，这是这组数据里比较舒服的平衡点。</p>
+<p>C8 则很明确，就是拿单卡总吞吐。477 tok/s 是本轮最高值，P95 2.36 秒也还没有失控，适合批处理或者对响应时间没那么敏感的场景。</p>
+<p>那 FP8 还有没有必要？</p>
+<p>有。因为这次只测了速度，没有测回答质量。NVFP4 性能更强，不等于它在你的业务数据上一定更好。如果后续质量评测发现 FP4 掉点明显，那 FP8 依然是更稳妥的选择。它的 C8 也有 425 tok/s，比原始权重快了 46%，已经是很实在的提升。</p>
+<p>至于原始权重，这轮结果里确实没有性能优势。除非业务明确要求保留原始精度，否则单看这张 PRO 6000，我没有继续用原始权重的理由。</p>
+<p>说到底，选哪种精度不能只看模型名字，也不能只跑一个 C1。单流看不出来的差距，到了真实并发里会被明显放大。这也是我这次坚持把 C1、C2、C4、C8 全部跑完的原因。</p>
+<p>下一步就该补质量评测了。性能这边，答案已经很清楚：<strong>NVFP4 最快，FP8 最稳妥，原始权重最慢。</strong></p>
+<p>数据源：InferBench，<code>max_tokens=128</code>，2026-08-26。</p>
 
               
             </article>
