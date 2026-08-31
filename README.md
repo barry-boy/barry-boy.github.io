@@ -1,3 +1,5 @@
+
+
 ## Yuki的博客
   Hello,大家好!
     我叫阿勰,北漂一族.在弄这个网站的初衷主要是为了记录自己工作和生活的内容.
@@ -27,7 +29,7 @@
 由于python环境我已经预制了,如果没有python环境可以使用
 ```
 brew install python@3.11
-pip3 install mkdocs-material==8.0.0
+pip3 install mkdocs mkdocs-material==8.0.0
 ```
 
 ## 启动测试
