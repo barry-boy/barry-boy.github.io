@@ -2,6 +2,16 @@
   max-width: 1440px;
 }
 
+/* 首页导航和 Hero 使用同一色面，避免两者之间出现阴影分割线 */
+body.k8s-home-page .md-header,
+body.k8s-home-page .md-header[data-md-state="shadow"] {
+    box-shadow: none;
+}
+
+body.k8s-home-page .md-tabs {
+    background-color: #4051b5;
+}
+
 /* K8s Training Home Page - 只在首页生效的特殊样式 */
 /* 只有当body有k8s-home-page类时才隐藏默认MkDocs布局 */
 body.k8s-home-page .md-main {
@@ -29,7 +39,7 @@ body:not(.k8s-home-page) .md-content {
         linear-gradient(180deg, #4051b5, #a63fd9 99%, #fff 0);
     color: white;
     padding: 2rem 0 8rem 0;
-    margin-top: 0;
+    margin-top: -1px; /* 覆盖导航与 Hero 之间可能出现的亚像素缝隙 */
 }
 
 .k8s-hero-container {
