@@ -87,18 +87,9 @@ document.addEventListener('DOMContentLoaded', function() {
             </div>
         `;
 
-        // Insert the hero section after the header/tabs
-        const tabs = document.querySelector('.md-tabs');
-        if (tabs) {
-            tabs.insertAdjacentElement('afterend', heroSection);
-        } else {
-            const header = document.querySelector('.md-header');
-            if (header) {
-                header.insertAdjacentElement('afterend', heroSection);
-            } else {
-                container.insertBefore(heroSection, container.firstChild);
-            }
-        }
+        // Keep the hero outside the sticky header so all pages use the same
+        // header height and navigation geometry.
+        container.insertBefore(heroSection, container.firstChild);
 
         // Add responsive behavior
         function handleResize() {

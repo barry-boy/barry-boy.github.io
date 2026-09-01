@@ -138,60 +138,6 @@ body:not(.k8s-home-page) .md-content {
     box-shadow: 0 8px 25px rgba(0,0,0,0.15);
 }
 
-/* Enhanced navigation styles to match original - 只在首页生效 */
-body.k8s-home-page .md-header {
-    position: relative;
-    z-index: 10;
-}
-
-body.k8s-home-page .md-tabs {
-    background: #4051b5;
-    border-top: 1px solid rgba(255,255,255,0.1);
-}
-
-body.k8s-home-page .md-tabs__inner {
-    max-width: 80rem; /* 增加最大宽度 */
-    margin: 0 auto;
-    padding: 0 0.4rem; /* 减少内边距 */
-}
-
-body.k8s-home-page .md-tabs__list {
-    display: flex;
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    overflow-x: auto;
-    scrollbar-width: none;
-    -ms-overflow-style: none;
-    justify-content: flex-start; /* 左对齐 */
-    flex-wrap: nowrap; /* 保持单行，避免进入文章时导航高度突然变化 */
-}
-
-body.k8s-home-page .md-tabs__list::-webkit-scrollbar {
-    display: none;
-}
-
-body.k8s-home-page .md-tabs__item {
-    flex-shrink: 0;
-}
-
-body.k8s-home-page .md-tabs__link {
-    display: block;
-    padding: 0.4rem 0.6rem; /* 减少内边距 */
-    color: rgba(255,255,255,0.7);
-    font-size: 0.7rem; /* 减小字体 */
-    font-weight: 400;
-    text-decoration: none;
-    transition: color 0.25s;
-    white-space: nowrap;
-    line-height: 1.2; /* 调整行高 */
-}
-
-body.k8s-home-page .md-tabs__link:hover,
-body.k8s-home-page .md-tabs__link--active {
-    color: white;
-}
-
 /* Responsive design */
 @media screen and (max-width: 76.25em) {
     .k8s-hero-container {
@@ -215,20 +161,6 @@ body.k8s-home-page .md-tabs__link--active {
         font-size: 2rem;
     }
 
-    body.k8s-home-page .md-tabs__list {
-        flex-wrap: nowrap;
-        justify-content: flex-start; /* 保持左对齐 */
-    }
-
-    body.k8s-home-page .md-tabs__link {
-        padding: 0.3rem 0.5rem; /* 进一步减小 */
-        font-size: 0.65rem; /* 更小字体 */
-    }
-
-    body.k8s-home-page .md-tabs__inner {
-        max-width: 100%; /* 在小屏幕上使用全宽 */
-        padding: 0 0.2rem;
-    }
 }
 
 @media screen and (max-width: 59.9375em) {
@@ -268,12 +200,6 @@ body.k8s-home-page .md-tabs__link--active {
 
     .k8s-hero-container {
         padding: 0 0.4rem;
-    }
-
-    /* 超小屏幕导航栏优化 */
-    body.k8s-home-page .md-tabs__link {
-        padding: 0.25rem 0.4rem;
-        font-size: 0.6rem;
     }
 
 }
