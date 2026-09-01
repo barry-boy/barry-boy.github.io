@@ -164,7 +164,7 @@ body.k8s-home-page .md-tabs__list {
     scrollbar-width: none;
     -ms-overflow-style: none;
     justify-content: flex-start; /* 左对齐 */
-    flex-wrap: wrap; /* 允许换行 */
+    flex-wrap: nowrap; /* 保持单行，避免进入文章时导航高度突然变化 */
 }
 
 body.k8s-home-page .md-tabs__list::-webkit-scrollbar {
@@ -216,9 +216,8 @@ body.k8s-home-page .md-tabs__link--active {
     }
 
     body.k8s-home-page .md-tabs__list {
-        flex-wrap: wrap;
+        flex-wrap: nowrap;
         justify-content: flex-start; /* 保持左对齐 */
-        gap: 0.2rem; /* 添加间距 */
     }
 
     body.k8s-home-page .md-tabs__link {
@@ -277,7 +276,4 @@ body.k8s-home-page .md-tabs__link--active {
         font-size: 0.6rem;
     }
 
-    body.k8s-home-page .md-tabs__list {
-        gap: 0.1rem;
-    }
 }
